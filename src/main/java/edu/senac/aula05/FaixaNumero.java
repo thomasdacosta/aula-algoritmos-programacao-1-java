@@ -11,8 +11,7 @@ public class FaixaNumero {
 		System.out.println("Digite um número entre 0 e 10:");
 		numero = scanner.nextInt();
 		
-		if (numero >=0 && numero <= 10)
-		{
+		if (numero >=0 && numero <= 10) {
 			System.out.println("Número válido !!!\n");
 			System.out.println("Número digitado: " + numero);
 		}
