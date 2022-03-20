@@ -15,7 +15,8 @@ public class OperadoresLogicos2 {
 		else
 			System.out.println("Falso !!!\n");
 
-		System.out.println("Resultado da expressão: " + (((q && r) || (!p && r)) && r));
+		System.out.println("Resultado da expressão: " 
+								+ (((q && r) || (!p && r)) && r));
 	}
 
 }
