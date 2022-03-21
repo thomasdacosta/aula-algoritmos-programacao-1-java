@@ -4,4 +4,9 @@
 	<groupId>edu.senac</groupId>
 	<artifactId>senac-java-algoritmos-programacao-1</artifactId>
 	<version>1.0.0-SNAPSHOT</version>
+
+	<properties>
+		<maven.compiler.target>11</maven.compiler.target>
+		<maven.compiler.source>11</maven.compiler.source>
+	</properties>
 </project>
