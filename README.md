@@ -4,6 +4,7 @@
 **Aula 05** – Estruturas de Controle - Condicionais<br/>
 **Aula 06** – Estruturas de Controle - Laços<br/>
 **Aula 07** – Funções e Métodos<br/>
+**Aula 08** – Vetores e Matrizes<br/>
 
 ---
 
