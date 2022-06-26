@@ -8,7 +8,7 @@ public class CalculadoraEntrada {
 		Scanner scanner = new Scanner(System.in);
 		
 		System.out.println("Digite o primeiro valor para somar:");
-		double soma1 = scanner.nextDouble();
+		double soma1 = scanner.nextInt();
 		
 		System.out.println("Digite o segundo valor para somar:");
 		double soma2 = scanner.nextDouble();
